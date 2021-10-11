@@ -27,3 +27,4 @@ If you wonder why you need to run the program as administrator for some things t
 
 
 *[bug] when removing shortcut arrows it says that you need to run as admin even if you run it as admin, but it still works*
+This is now archived since its very bugged.
